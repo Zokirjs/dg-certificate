@@ -1,0 +1,25 @@
+{
+  "name": "dg-certificate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zokirjs/dg-certificate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zokirjs/dg-certificate/issues"
+  },
+  "homepage": "https://github.com/Zokirjs/dg-certificate#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "jimp": "^0.16.0",
+    "telegraf": "^4.9.1"
+  }
+}
